@@ -1,0 +1,121 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    margin: 0px;
+}
+
+.Center {
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 221, 0), rgb(205, 53, 26));
+    color: white;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+
+.Top {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+    background-size: 100%;
+    color: white;
+}
+
+.Second {
+    padding-top: 50px;
+}
+
+.lite {
+    color: rgb(136, 136, 136);
+}
+
+.flex {
+    display: flex;
+}
+
+.button {
+    padding: 20px 5%;
+    width: 20%;
+    background-color: rgb(232, 232, 232);
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.button1 {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.border {
+    padding: 20px 5%;
+    width: 20%;
+    border: 2px solid orangered;
+    border-radius: 10px;
+    background-color: rgb(254, 225, 171);
+    margin-left: 5px;
+
+}
+
+.input {
+    border: none;
+    border-bottom: 1px solid grey;
+    padding: 20px 25% 10px 25%;
+}
+
+p {
+    text-align: center;
+}
+
+.basic {
+    width: 25%;
+    text-align: justify;
+    padding: 10px 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 15px;
+}
+
+.half-width {
+    width: 100%;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.button-last {
+    background-image: linear-gradient(rgb(255, 221, 0), rgb(205, 53, 26));
+    border: none;
+    color: white;
+    padding: 2px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.last {
+    background-color: rgba(232, 232, 109, 0.326);
+    padding: 10% 20%;
+    border: 70px solid rgb(255, 255, 255);
+}
